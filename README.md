@@ -19,7 +19,7 @@ Under synchronous learning, the transition from one state to another is done sim
 ### Asynchronous Learning
 Under asynchronous learning, the transition from one state to another is done independently. For a given time, only a single neuron (randomly chosen) is allowed to update its output and only one element of the input vector V is updated considering the most recent values of changes.
 
-## Evaluation
+## Model Evaluation
 Four evaluation runs have been conducted:
 1) Clean Pattern Recall (Synchronous)
 2) Noisy Pattern Recall (Synchrnous)
