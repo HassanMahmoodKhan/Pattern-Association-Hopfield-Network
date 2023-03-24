@@ -25,3 +25,7 @@ Four evaluation runs have been conducted:
 2) Noisy Pattern Recall (Synchrnous)
 3) Clean Pattern Recall (Asynchronous)
 4) Noisy Pattern Recall (Asynchrnous)
+
+## Conclusion
+
+The Hopfield Network was able to successfully store all eight patterns and largely successful in retrieving them during the recall phase for both clean and noisy patterns. In addition, this reaffirms the findings of literature that states, ‘a network is able to learn 0.15n number of patterns, where n is the number of neurons of the network’. Furthermore, it was also observed that due to the bipolar nature of the activation function, bipolar input resulted in greater accuracy and improved performance.
